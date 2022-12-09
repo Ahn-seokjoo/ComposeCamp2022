@@ -49,7 +49,7 @@ object UserData {
             Color(0xFF004940)
         ),
         Account(
-            "Home Savings",
+            "HomeSavings",
             5678,
             8676.88f,
             Color(0xFF005D57)
